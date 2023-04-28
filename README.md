@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi  👋 我是小林
 <!--
 **hugeLinamu/hugeLinamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![hugeLinamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugeLinamu&count_private=true)](https://github.com/hugeLinamu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugeLinamu&layout=compact)](https://github.com/hugeLinamu)
+
+- 😄 我热爱创造，尝试用代码改变这个世界
+- 🌱 正在努力学习，致力成为一名前端技术专家
+- 📫 欢迎联系我的邮箱 1255079114@qq.com ，交流使我进步
